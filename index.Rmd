@@ -1,6 +1,7 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "SDMX Constructor: User manual"
+description: "Instructions and information on how to use the SDMX Constructor tool"
+author: "International Labour Organization: Department of Statistics"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
