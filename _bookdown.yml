@@ -1,7 +1,7 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/rajivranj/ILO_SDMX_Constructor/edit/master/%s
+edit: https://github.com/rajivranj/ILO_SDMX_Constructor/edit/main/%s
 view: https://github.com/rajivranj/ILO_SDMX_Constructor/blob/master/%s
 language:
   ui:
