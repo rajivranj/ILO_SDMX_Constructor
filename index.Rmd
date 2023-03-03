@@ -3,6 +3,9 @@ title: "A Minimal Book Example"
 author: "John Doe"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
 ---
 
 # About
